@@ -1,4 +1,4 @@
-<?php include 'temconfirmation.html'; ?>
+<?php include 'confirmation-html.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
