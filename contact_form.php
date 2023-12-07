@@ -1,8 +1,7 @@
 <?php
 // Script PHP pour traiter le formulaire
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Traitement du formulaire ici
-    // ...
+    
 
     // Redirection vers la page de confirmation
     header("Location: confirmation.php");
