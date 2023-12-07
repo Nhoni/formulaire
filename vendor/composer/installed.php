@@ -1,40 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'b93317dfbf2ffc0ea27e5f1d8a0bfd153a89d1d6',
     'name' => 'nhmbemba/formulaire',
   ),
   'versions' => 
   array (
     'nhmbemba/formulaire' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
-    ),
-    'twbs/bootstrap' => 
-    array (
-      'pretty_version' => 'v5.3.2',
-      'version' => '5.3.2.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '344e912d04b5b6a04482113eff20ab416ff01048',
-    ),
-    'twitter/bootstrap' => 
-    array (
-      'replaced' => 
-      array (
-        0 => 'v5.3.2',
-      ),
+      'reference' => 'b93317dfbf2ffc0ea27e5f1d8a0bfd153a89d1d6',
     ),
   ),
 );

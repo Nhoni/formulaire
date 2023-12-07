@@ -5,8 +5,6 @@
             "name": "Nhoni",
             "email": "nhmbemba@gmail.com"
         }
-    ],
-    "require": {
-        "twbs/bootstrap": "^5.3"
-    }
+    ]
+    
 }
