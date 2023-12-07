@@ -9,5 +9,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 <!-- Formulaire de contact -->
-<?php include 'pages/form
-.php'; ?>
+<?php include 'pages/form.php'; ?>
