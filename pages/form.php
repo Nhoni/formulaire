@@ -1,3 +1,6 @@
+<?php 
+
+?>
 <h2>Contactez-nous</h2>
 <form action="contact_form.php" method="post">
     <div class="mb-3">
