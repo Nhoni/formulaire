@@ -6,10 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Confirmation</title>
 
-  
 </head>
-<body>
+
     <h2>Merci !</h2>
     <p>Votre message a été envoyé avec succès. Nous vous contacterons bientôt.</p>
-</body>
-</html>
+

@@ -14,11 +14,6 @@
 
 <body>
     <header>
-        <nav class="navbar bg-body-tertiary">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="#">Contact</a>
-            </div>
-        </nav>
         <h1>Formulaire de contact</h1>
     </header>
 
